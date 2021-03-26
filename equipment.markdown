@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Imaging Equipment
+permalink: /equipment/
 ---
 Digitization Equipment
 
