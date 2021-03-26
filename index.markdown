@@ -1,5 +1,5 @@
 ---
-title: Front Page
+title: Digitization at Penn State Libraries
 layout: default
 nav_order: 1
 ---
