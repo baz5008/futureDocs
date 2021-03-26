@@ -3,6 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
-This is a template! 
+Our Services:
 
-#You can write about your project
+Below you will find a list of our current services, which are available internal stakeholders and to the public. 
+
+* Digital Imaging
+
+* Digital Editing 
+
+* Quality Control 
+
+* Oversized Printing
+
+* File Transfers
