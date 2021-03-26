@@ -8,4 +8,4 @@ nav_order: 1
 This documentation is for the staff in the Digitization Unit at Penn State Libraries. 
 This unit is part of the Preservation, Conservation and Digitization department at the Penn State University Park campus.
 
-[Check out PCD's Website] (https://libraries.psu.edu/about/departments/preservation-conservation-and-digitization)
+[Check out PCD's Website](https://libraries.psu.edu/about/departments/preservation-conservation-and-digitization)
