@@ -1,5 +1,5 @@
 ---
-title: Digitization at Penn State Libraries
+title: Digitization at PSU Libs
 layout: default
 nav_order: 1
 ---
